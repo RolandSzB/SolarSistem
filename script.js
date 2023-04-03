@@ -16,6 +16,7 @@ function solarSistem() {
   //sun
   fill("#fcc603");
   circle(400, 300, 75);
+  //sunbeams
   triangle(395, 260, 405, 260, 400, 240);
   triangle(440, 295, 465, 300, 440, 305);
   triangle(395, 340, 405, 340, 400, 360);
