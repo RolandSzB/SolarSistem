@@ -20,4 +20,16 @@ function solarSistem() {
   triangle(440, 295, 465, 300, 440, 305);
   triangle(395, 340, 405, 340, 400, 360);
   triangle(360, 295, 360, 305, 335, 300);
+
+  //planets
+  fill("#039dfc");
+  circle(310, 360, 25);
+  fill("#03fc4a");
+  circle(665, 300, 70);
+  fill("#fc0303");
+  circle(215, 250, 30);
+  fill("#fca103");
+  circle(560, 330, 45);
+  fill("#db03fc");
+  circle(80, 300, 50);
 }
